@@ -31,7 +31,7 @@ public class MyPanelClass extends JPanel {
                         g.fillRect(x1,y1+200/6, width=350, height=35);
                         
                         g.setColor(Color.WHITE);
-                        g.fillRect(x1,y1+ 200/2, width=350, height=35);
+                        g.fillRect(x1,y1+200/2, width=350, height=35);
                       
                        
                         Polygon p = new Polygon();
